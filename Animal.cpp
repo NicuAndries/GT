@@ -2,4 +2,4 @@
 
 #include <utility>
 
-Animal::Animal(string name) : name(std::move(name)) {}
+Animal::Animal(string name, int age) : name(std::move(name)), age(age) {}

@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Programare/C++/Interviews/GitDemo/cmake-build-debug",
-		"source" : "D:/Programare/C++/Interviews/GitDemo"
+		"build" : "D:/CPP/GT/cmake-build-debug",
+		"source" : "D:/CPP/GT"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

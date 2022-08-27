@@ -1,0 +1,3 @@
+"D:\Installs\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\GitDemo.dir/objects.a
+"D:\Installs\CLion 2022.2.1\bin\mingw\bin\ar.exe" qc CMakeFiles\GitDemo.dir/objects.a @CMakeFiles\GitDemo.dir\objects1.rsp
+"D:\Installs\CLion 2022.2.1\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\GitDemo.dir/objects.a -Wl,--no-whole-archive -o GitDemo.exe -Wl,--out-implib,libGitDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GitDemo.dir\linklibs.rsp

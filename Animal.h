@@ -8,9 +8,11 @@ using namespace std;
 class Animal {
 private:
     string name;
+    int age;
 
 public:
-    Animal(string name);
+    Animal() = default;
+    Animal(string name, int age);
 };
 
 
